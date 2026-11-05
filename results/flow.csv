@@ -1,0 +1,11 @@
+stage,rows,inventors,corporate,independent,excluded_univ_govt,founder_rows,unknown_region,unknown_field,arab,jewish,ambiguous
+0. raw inventor-patent rows,225165.0,48111.0,,,,,,,,,
+1. valid id + name + year,224449.0,47898.0,,,,,,,,,
+2a. ownership classified,,,199139.0,10715.0,14595.0,,,,,,
+2b. founder-owned reclassified as independent,,,186551.0,23303.0,,12588.0,,,,,
+3. university/govt dropped,209854.0,43577.0,,,,,,,,,
+4. cohort 1990-2019,187752.0,35590.0,,,,,,,,,
+5. 5-year window applied,94833.0,35590.0,,,,,,,,,
+6. inventor-level panel,,35590.0,,,,,703.0,969.0,,,
+7a. surname classified,,,,,,,,,276.0,17365.0,17949.0
+7b. analysis sample (clear names only),,17641.0,,,,,,,276.0,,

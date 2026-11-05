@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+title: "Patent Inventor Pipeline: Arab and Jewish inventors in Israeli firms, from USPTO data"
+authors:
+  - family-names: Elias
+    given-names: Ward
+  - family-names: Haddad
+    given-names: Mtanis
+date-released: 2026-08-30
+repository-code: "https://github.com/wardelias/patent-inventor-pipeline"
+license: MIT

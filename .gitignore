@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+# raw and individual-level data never go in the repo
+*.zip
+*.tsv
+src/*.csv
+extract/
+.pytest_cache/
+src/*.png

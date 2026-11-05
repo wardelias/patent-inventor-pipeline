@@ -1,0 +1,4 @@
+model,coef,se,p,sig
+"OLS, corporate share",-0.0129,0.0183,0.482,
+"Logit, ever corporate",0.0135,0.2287,0.953,
+"OLS, no controls",0.0047,0.0178,0.792,

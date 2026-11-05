@@ -1,0 +1,13 @@
+model,spec,beta_arab,se,exp(beta),p,sig,n
+BINOMIAL corp share (main),M0  cohort only,0.1484,0.2457,1.16,0.5459,,17641
+BINOMIAL corp share (main),M1  + region,0.0842,0.2436,1.088,0.7297,,17641
+BINOMIAL corp share (main),M2  + field,0.2776,0.2639,1.32,0.2928,,17641
+BINOMIAL corp share (main),M3  + region + field (full),0.1399,0.2628,1.15,0.5945,,17641
+LOGIT ever-corporate,M0  cohort only,0.0853,0.2227,1.089,0.7016,,17641
+LOGIT ever-corporate,M1  + region,0.0596,0.2285,1.061,0.7943,,17641
+LOGIT ever-corporate,M2  + field,0.1317,0.2333,1.141,0.5725,,17641
+LOGIT ever-corporate,M3  + region + field (full),0.0135,0.2389,1.014,0.9548,,17641
+PPML corporate count,M0  cohort only,-0.034,0.1036,0.967,0.7429,,17641
+PPML corporate count,M1  + region,0.0094,0.1068,1.009,0.9298,,17641
+PPML corporate count,M2  + field,-0.0259,0.1035,0.974,0.8022,,17641
+PPML corporate count,M3  + region + field (full),-0.0108,0.1077,0.989,0.9198,,17641
